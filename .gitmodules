@@ -1,24 +1,24 @@
-[submodule "modules\\libbitcoin"]
-	path = modules\\libbitcoin
+[submodule "modules/libbitcoin"]
+	path = modules/libbitcoin
 	url = https://github.com/libbitcoin/libbitcoin
-[submodule "modules\\libbitcoin-consensus"]
-	path = modules\\libbitcoin-consensus
+[submodule "modules/libbitcoin-consensus"]
+	path = modules/libbitcoin-consensus
 	url = https://github.com/libbitcoin/libbitcoin-consensus.git
-[submodule "modules\\libbitcoin-database"]
-	path = modules\\libbitcoin-database
+[submodule "modules/libbitcoin-database"]
+	path = modules/libbitcoin-database
 	url = https://github.com/libbitcoin/libbitcoin-database.git
-[submodule "modules\\libbitcoin-blockchain"]
-	path = modules\\libbitcoin-blockchain
+[submodule "modules/libbitcoin-blockchain"]
+	path = modules/libbitcoin-blockchain
 	url = https://github.com/libbitcoin/libbitcoin-blockchain.git
-[submodule "modules\\libbitcoin-network"]
-	path = modules\\libbitcoin-network
+[submodule "modules/libbitcoin-network"]
+	path = modules/libbitcoin-network
 	url = https://github.com/libbitcoin/libbitcoin-network.git
-[submodule "modules\\libbitcoin-node"]
-	path = modules\\libbitcoin-node
+[submodule "modules/libbitcoin-node"]
+	path = modules/libbitcoin-node
 	url = https://github.com/libbitcoin/libbitcoin-node.git
-[submodule "modules\\libbitcoin-protocol"]
-	path = modules\\libbitcoin-protocol
+[submodule "modules/libbitcoin-protocol"]
+	path = modules/libbitcoin-protocol
 	url = https://github.com/libbitcoin/libbitcoin-protocol.git
-[submodule "modules\\libbitcoin-server"]
-	path = modules\\libbitcoin-server
+[submodule "modules/libbitcoin-server"]
+	path = modules/libbitcoin-server
 	url = https://github.com/libbitcoin/libbitcoin-server.git
